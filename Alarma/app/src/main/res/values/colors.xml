@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CDDC39</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="btn_bck">#757575</color>
+    <color name="btn_txt_color">#FFFFFF</color>
+    <color name="btn_bck_alarm">#C0CA33</color>
+</resources>
